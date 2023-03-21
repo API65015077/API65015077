@@ -1,5 +1,15 @@
 ### Hi there 👋
 
+This is my Languages and Tools:
+
+
+<div>
+    <p align="center"> 
+    <img style="height:50%;width:49%;max-width: 100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=API65015077&layout=compact&theme=gotham&langs_count=8"/>
+    </p>
+</div>
+
+
 <!--
 **API65015077/API65015077** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
