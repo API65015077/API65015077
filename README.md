@@ -1,11 +1,16 @@
 ### Hi there 👋
 
-This is my Languages and Tools:
+This is my Languages and Tools  :clipboard::
 
 <p align="center">
-    <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-    <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+    <a href="https://www.w3schools.com/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
+      <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
+  </a> 
+    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
+    <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a>
+    <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
+    
 </p>
 
 <!-- <div>
@@ -14,10 +19,13 @@ This is my Languages and Tools:
     </p>
 </div> -->
 
+Look at my github Analytics :newspaper:: 
+
 <div align="center">
   <a href="https://github.com/API65015077">
     <img height="180em" src="https://github-readme-stats.vercel.app/api/?username=API65015077&cache_seconds=7200&layout=compact&theme=tokyonight&border_radius=8" />
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=API65015077&langs_count=8&layout=compact&theme=tokyonight&border_radius=8" />
+      <br>
     <img height="280em" src="https://github-readme-activity-graph.cyclic.app/graph?username=API65015077&theme=tokyo-night&radius=16" />
   </a>
 </div>
