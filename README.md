@@ -24,7 +24,7 @@ Look at my github Analytics :newspaper::
 <div align="center">
   <a href="https://github.com/API65015077">
     <img height="180em" src="https://github-readme-stats.vercel.app/api/?username=API65015077&cache_seconds=7200&layout=compact&theme=tokyonight&border_radius=8" />
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=API65015077&langs_count=8&layout=compact&theme=tokyonight&border_radius=8" />
+<!--     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=API65015077&langs_count=8&layout=compact&theme=tokyonight&border_radius=8" /> -->
       <br>
     <img height="280em" src="https://github-readme-activity-graph.cyclic.app/graph?username=API65015077&theme=tokyo-night&radius=16" />
   </a>
