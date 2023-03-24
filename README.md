@@ -24,7 +24,8 @@ Look at my github Analytics :newspaper::
 
 <div align="center">
   <a href="https://github.com/API65015077">
-    <img alt="KokoNior's Github Stats" src="https://github-readme-stats.vercel.app/api?username=API65015077&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" />
+    <img alt=" My Github Stats" src="https://github-readme-stats.vercel.app/api?username=API65015077&hide_rank=true&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" />
+      
   <img alt="Thiraphat's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=API65015077&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" />
       <br>
     <img height="280em" src="https://github-readme-activity-graph.cyclic.app/graph?username=API65015077&theme=react&hide_border=true&bg_color=0D1117" />
