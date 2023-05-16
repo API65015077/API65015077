@@ -23,7 +23,7 @@ This is my Languages and Tools  :clipboard::
     </p>
 </div> -->
 
-Look at my github Analytics :newspaper:: 
+<!-- Look at my github Analytics :newspaper:: 
 
 <div align="center">
   <a href="https://github.com/API65015077">
@@ -35,7 +35,7 @@ Look at my github Analytics :newspaper::
     <img height="280em" src="https://github-readme-activity-graph.cyclic.app/graph?username=API65015077&theme=react&hide_border=true&bg_color=0D1117" />
   </a>
 </div>
-
+ -->
 
 <!--
 **API65015077/API65015077** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
