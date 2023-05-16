@@ -4,8 +4,9 @@ This is my Languages and Tools  :clipboard::
 
 <p align="center">
    <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=html,css,js,ts,mysql,py" /><br>
-        <img src="https://skillicons.dev/icons?i=postman,dotnet,cs,unity" />
+         <img src="https://skillicons.dev/icons?i=html,css,js,ts,mysql,py" />
+      <br>
+         <img src="https://skillicons.dev/icons?i=postman,dotnet,cs,unity" />
   </a>
 </p>
 
