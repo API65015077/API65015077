@@ -32,6 +32,10 @@ This is my Languages and Tools  :clipboard::
 </div> -->
 
 Look at my github Analytics :newspaper:: 
+<p align="center">&nbsp;
+   <img  src="https://github-readme-stats.vercel.app/api?username=API65015077&theme=react&hide_border&show_icons=true&locale=en&bg_color=0D1117" alt="API65015077" />
+</p>
+
 
 <div align="center">
   <a href="https://github.com/API65015077">
