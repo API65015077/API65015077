@@ -2,7 +2,7 @@
 
 This is my Languages and Tools  :clipboard::
 
-<p align="center">
+<!-- <p align="center">
    <a href="https://skillicons.dev">
          <img src="https://skillicons.dev/icons?i=html,css,js,ts,mysql,py" />
       <br>
@@ -31,7 +31,7 @@ This is my Languages and Tools  :clipboard::
     </p>
 </div> -->
 
-Look at my github Analytics :newspaper:: 
+<!-- Look at my github Analytics :newspaper:: 
 <p align="center">&nbsp;
    <img  src="https://github-readme-stats.vercel.app/api?username=API65015077&theme=react&hide_border&show_icons=true&locale=en&bg_color=0D1117" alt="API65015077" />
 </p>
