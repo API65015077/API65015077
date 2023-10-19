@@ -10,13 +10,10 @@
 
 🌱 I’m currently learning in KMTL 
 
-![@api65015077's Holopin board](https://holopin.me/api65015077)](https://holopin.io/@api65015077)
+![@api65015077's Holopin board](https://holopin.me/api65015077)
 
 ## Status 
 <div align="center" >
   <p justify="center">Languages used in my study </p> 
   <img width="" src="https://github-readme-stats.vercel.app/api/top-langs/?username=API65015077&layout=donut-vertical&hide_title=1&card_width=fit-content&theme=dark" alt="Top language used in my repos" />
-
-  <br />
-  <br />
 </div>
