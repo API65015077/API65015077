@@ -9,9 +9,6 @@
 </div>
 
 🌱 I’m currently learning in KMTL 
-
-![@api65015077's Holopin board](https://holopin.me/api65015077)
-
 ## Status 
 <div align="center" >
   <p justify="center">Languages used in my study </p> 
