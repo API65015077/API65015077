@@ -6,9 +6,9 @@
 </p>
 
 
-## Status 
+
 <div display="flex" >
-  <p justify="center">Languages used in my study </p> 
+  <!-- <p justify="center">Languages used in my study </p>  -->
   <img  src="https://github.com/API65015077/API65015077/blob/main/chicken_0n_fire.gif">
   <!-- <img  width="" src="https://github-readme-stats.vercel.app/api/top-langs/?username=API65015077&layout=donut-vertical&hide_title=1&card_width=fit-content&theme=dark&hide_border=true" alt="Top language used in my repos" /> -->
 </div>
