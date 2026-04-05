@@ -4,8 +4,6 @@
 <p justify="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=23&pause=1000&color=AAC8A7&random=true&width=435&lines=Quick+brown+fox+jump+over+the+Lazy+dog" alt="Typing SVG" /></a>
 </p>
-🌱 I’m currently learning in KMTL 
-
 
 
 ## Status 
